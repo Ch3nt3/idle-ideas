@@ -1,2 +1,2 @@
 # idle-ideas
-A list of stuff, maybe not interesting enough
+this is a collection of ideas for future projects and the material and machines useful to achieve the project goals.
